@@ -2,7 +2,7 @@
   "name": "11a_klausurvorbereitung-pp_ez",
   "version": "1.0.0",
   "description": "",
-  "main": "funktionen.js",
+  "main": "Probeklausur.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
